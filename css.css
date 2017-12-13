@@ -1,0 +1,11 @@
+.begin{
+  border: 1px solid black;
+}
+.skill{
+  background-color: #D8DAE6;
+  border-left: 1px solid black;
+}
+.myfooter{
+  background-color: #22252F;
+  bottom: 0;
+}
